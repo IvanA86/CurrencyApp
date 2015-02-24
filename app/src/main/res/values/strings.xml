@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency Exchange Rate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flg">flg</string>
+    <string name="lblOriginal">Moneda Original</string>
+    <string name="lblDestino">Moneda Destino</string>
+
+</resources>
